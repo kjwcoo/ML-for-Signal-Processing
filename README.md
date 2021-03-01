@@ -1,8 +1,8 @@
 ## labelDIY.py
 ### Usage
-'''
+```
 py labelDIY.py --dst <Output directory> --src <Input directories>
-'''
+```
 ### Comments
 1. .csv file format    
 Input files must have the format of "First row: Time, Voltage".  
